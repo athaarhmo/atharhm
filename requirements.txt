@@ -1,0 +1,9 @@
+pip install absl-py
+pip installnatsort
+numpy
+rouge-score
+sentencepiecepip
+tensorflow
+tensorflow-text
+tensor2tensor
+tfds-nightly
