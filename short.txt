@@ -1,0 +1,79 @@
+isease	C537243
+10364525	627	630	HPC	SpecificDisease	C537243
+10364525	1451	1466	prostate cancer	SpecificDisease	D011471
+
+2037285|t|Localisation of the myotonic dystrophy locus to 19q13.2-19q13.3 and its relationship to twelve polymorphic loci on 19q.
+2037285|a|The order of fourteen polymorphic markers localised to the long arm of human chromosome 19 has been established by multipoint mapping in a set of 40 CEPH (Centre dEtude de Polymorphisme Humain, Paris) reference families. We report here the linkage relationship of the myotonic dystrophy (DM) locus to twelve of these markers as studied in 45 families with DM. The resulting genetic map is supported by the localisation of the DNA markers in a panel of somatic cell hybrids. Ten of the twelve markers have been shown to be proximal to the DM gene and two, PRKCG and D19S22, distal but at distances of approximately 25 cM and 15 cM, respectively. The closest proximal markers are APOC2 (apolipoprotein C-II) and CKM (creatine kinase, muscle) approximately 3 cM and 2 cM from the DM gene respectively, in the order APOC2-CKM-DM. The distance between APOC2, CKM and DM (of the order of 2 million base pairs) and their known orientation should permit directional chromosome walking and jumping. The data presented here should enable us to determine whether or not new markers are distal to APOC2/CKM and thus potentially flank the DM gene.. 
+2037285	20	38	myotonic dystrophy	Modifier	D009223
+2037285	388	406	myotonic dystrophy	Modifier	D009223
+2037285	408	410	DM	Modifier	D009223
+2037285	476	478	DM	SpecificDisease	D009223
+2037285	658	660	DM	Modifier	D009223
+2037285	897	899	DM	Modifier	D009223
+2037285	982	984	DM	SpecificDisease	D009223
+2037285	1246	1248	DM	Modifier	D009223
+
+10712225|t|A recurrent expansion of a maternal allele with 36 CAG repeats causes Huntington disease in two sisters.
+10712225|a|Large intergenerational repeat expansions of the CAG trinucleotide repeat in the HD gene have been well documented for the male germline. We describe a recurrent large expansion of a maternal allele with 36 CAG repeats (to 66 and 57 repeats, respectively, in two daughters) associated with onset of Huntington disease (HD) in the second and third decade in a family without history of HD. Our findings give evidence of a gonadal mosaicism in the unaffected mother. We hypothesize that large expansions also occur in the female germline and that a negative selection of oocytes with long repeats might explain the different instability behavior of the male and the female germlines.. 
+10712225	70	88	Huntington disease	SpecificDisease	D006816
+10712225	186	188	HD	Modifier	D006816
+10712225	404	422	Huntington disease	SpecificDisease	D006816
+10712225	424	426	HD	SpecificDisease	D006816
+10712225	490	492	HD	SpecificDisease	D006816
+
+10072428|t|Germline E-cadherin gene (CDH1) mutations predispose to familial gastric cancer and colorectal cancer.
+10072428|a|Inherited mutations in the E-cadherin gene (CDH1) were described recently in three Maori kindreds with familial gastric cancer. Familial gastric cancer is genetically heterogeneous and it is not clear what proportion of gastric cancer susceptibility in non-Maori populations is due to germline CDH1 mutations. Therefore, we screened eight familial gastric cancer kindreds of British and Irish origin for germline CDH1 mutations, by SSCP analysis of all 16 exons and flanking sequences. Each family contained  (i) two cases of gastric cancer in first degree relatives with one affected before age 50 years; or (ii) three or more cases of gastric cancer. Novel germline CDH1 mutations (a nonsense and a splice site) were detected in two families (25%). Both mutations were predicted to truncate the E-cadherin protein in the signal peptide domain. In one family there was evidence of non-penetrance and susceptibility to both gastric and colorectal cancer; thus, in addition to six cases of gastric cancer, a CDH1 mutation carrier developed colorectal cancer at age 30 years. We have confirmed that germline mutations in the CDH1 gene cause familial gastric cancer in non-Maori populations. However, only a minority of familial gastric cancers can be accounted for by CDH1 mutations. Loss of E-cadherin function has been implicated in the pathogenesis of sporadic colorectal and other cancers, and our findings provide evidence that germline CDH1 mutations predispose to early onset colorectal cancer. Thus, CDH1 should be investigated as a cause of inherited susceptibility to both gastric and colorectal cancers.
+10072428	56	79	familial gastric cancer	SpecificDisease	D013274
+10072428	84	101	colorectal cancer	SpecificDisease	D015179
+10072428	206	229	familial gastric cancer	SpecificDisease	D013274
+10072428	231	254	Familial gastric cancer	SpecificDisease	D013274
+10072428	323	337	gastric cancer	Modifier	D013274
+10072428	442	465	familial gastric cancer	Modifier	D013274
+10072428	629	643	gastric cancer	SpecificDisease	D013274
+10072428	740	754	gastric cancer	SpecificDisease	D013274
+10072428	1027	1056	gastric and colorectal cancer	CompositeMention	D015179|D013274
+10072428	1092	1106	gastric cancer	SpecificDisease	D013274
+10072428	1142	1159	colorectal cancer	SpecificDisease	D015179
+10072428	1242	1265	familial gastric cancer	SpecificDisease	D013274
+10072428	1329	1344	gastric cancers	SpecificDisease	D013274
+10072428	1465	1493	colorectal and other cancers	DiseaseClass	D015179|D009369
+10072428	1584	1601	colorectal cancer	SpecificDisease	D015179
+10072428	1684	1714	gastric and colorectal cancers	CompositeMention	D015179|D013274
+
+3346017|t|Germinal mosaicism in Duchenne muscular dystrophy.
+3346017|a|We have identified a Duchenne muscular dystrophy (DMD) pedigree where the disease is associated with a molecular deletion within the DMD locus. We have examined the meiotic segregation products of the common female ancestor using marker restriction fragment length polymorphisms (RFLPs) detected by probes that lie within this deletion. These studies show that this female has transmitted three distinct types of X chromosome to her offspring. This observation may be explained by postulating that the mutation arose as a postzygotic deletion within this common ancestor, who was consequently germinally mosaic.. 
+3346017	22	49	Duchenne muscular dystrophy	SpecificDisease	D020388
+3346017	72	99	Duchenne muscular dystrophy	Modifier	D020388
+3346017	101	104	DMD	Modifier	D020388
+3346017	184	187	DMD	Modifier	D020388
+
+3347839|t|Expression of the murine Duchenne muscular dystrophy gene in muscle and brain.
+3347839|a|Complementary DNA clones were isolated that represent the 5 terminal 2. 5 kilobases of the murine Duchenne muscular dystrophy (Dmd) messenger RNA (mRNA). Mouse Dmd mRNA was detectable in skeletal and cardiac muscle and at a level approximately 90 percent lower in brain. Dmd mRNA is also present, but at much lower than normal levels, in both the muscle and brain of three different strains of dystrophic mdx mice. The identification of Dmd mRNA in brain raises the possibility of a relation between human Duchenne muscular dystrophy (DMD) gene expression and the mental retardation found in some DMD males. These results also provide evidence that the mdx mutations are allelic variants of mouse Dmd gene mutations. 
+3347839	25	52	Duchenne muscular dystrophy	Modifier	D020388
+3347839	177	204	Duchenne muscular dystrophy	Modifier	D020388
+3347839	473	483	dystrophic	Modifier	D020388
+3347839	585	612	Duchenne muscular dystrophy	SpecificDisease	D020388
+3347839	614	617	DMD	SpecificDisease	D020388
+3347839	643	661	mental retardation	DiseaseClass	D008607
+3347839	676	679	DMD	Modifier	D020388
+
+7790377|t|Human peroxisomal targeting signal-1 receptor restores peroxisomal protein import in cells from patients with fatal peroxisomal disorders.
+7790377|a|Two peroxisomal targeting signals, PTS1 and PTS2, are involved in the import of proteins into the peroxisome matrix. Human patients with fatal generalized peroxisomal deficiency disorders fall into at least nine genetic complementation groups. Cells from many of these patients are deficient in the import of PTS1-containing proteins, but the causes of the protein-import defect in these patients are unknown. We have cloned and sequenced the human cDNA homologue (PTS1R) of the Pichia pastoris PAS8 gene, the PTS1 receptor (McCollum, D., E. Monosov, and S. Subramani. 1993. J. Cell Biol. 121  761-774). The PTS1R mRNA is expressed in all human tissues examined. Antibodies to the human PTS1R recognize this protein in human, monkey, rat, and hamster cells. The protein is localized mainly in the cytosol but is also found to be associated with peroxisomes. Part of the peroxisomal PTS1R protein is tightly bound to the peroxisomal membrane. Antibodies to PTS1R inhibit peroxisomal protein-import of PTS1-containing proteins in a permeabilized CHO cell system. In vitro-translated PTS1R protein specifically binds a serine-lysine-leucine-peptide. A PAS8-PTS1R fusion protein complements the P. pastoris pas8 mutant. The PTS1R cDNA also complements the PTS1 protein-import defect in skin fibroblasts from patients--belonging to complementation group two--diagnosed as having neonatal adrenoleukodystrophy or Zellweger syndrome. The PTS1R gene has been localized to a chromosomal location where no other peroxisomal disorder genes are known to map. Our findings represent the only case in which the molecular basis of the protein-import deficiency in human peroxisomal disorders is understood. 
+7790377	116	137	peroxisomal disorders	DiseaseClass	D018901
+7790377	294	326	peroxisomal deficiency disorders	DiseaseClass	D018901
+7790377	1391	1417	PTS1 protein-import defect	SpecificDisease	OMIM:202370|OMIM:214100
+7790377	1513	1542	neonatal adrenoleukodystrophy	SpecificDisease	OMIM:202370
+7790377	1546	1564	Zellweger syndrome	SpecificDisease	D015211
+7790377	1641	1661	peroxisomal disorder	Modifier	D018901
+7790377	1759	1784	protein-import deficiency	DiseaseClass	D008661
+7790377	1794	1815	peroxisomal disorders	DiseaseClass	D018901
+
+8012387|t|X-linked spastic paraplegia and Pelizaeus-Merzbacher disease are allelic disorders at the proteolipid protein locus.
+8012387|a|Three forms of X-linked spastic paraplegia (SPG) have been defined. One locus (SPG 1) maps to Xq28 while two clinically distinct forms map to Xq22 (SPG2). A rare X-linked dysmyelinating disorder of the central nervous system, Pelizaeus-Merzbacher disease (PMD), has also been mapped to Xq21-q22, and is caused by mutations in the proteolipid protein gene (PLP) which encodes two myelin proteins, PLP and DM20. While narrowing the genetic interval containing SPG2 in a large pedigree, we found that PLP was the closest marker to the disease locus, implicating PLP as a possible candidate gene. We have found that a point mutation (His139Tyr) in exon 3B of an affected male produces a mutant PLP but a normal DM20, and segregates with the disease (Zmax = 6. 63, theta = 0. 00). It appears, therefore, that SPG2 and PMD are allelic disorders 
+8012387	0	27	X-linked spastic paraplegia	SpecificDisease	OMIM:312920
+8012387	32	60	Pelizaeus-Merzbacher disease	SpecificDisease	OMIM:312080
+8012387	65	82	allelic disorders	DiseaseClass	D030342
+8012387	132	159	X-linked spastic paraplegia	SpecificDisease	OMIM:312920
+8012387	161	164	SPG	SpecificDisease	OMIM:312920
+8012387	279	311	X-linked dysmyelinating disorder	DiseaseClass	D020279
+801
